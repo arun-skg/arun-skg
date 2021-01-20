@@ -1,10 +1,9 @@
 ### Hi there 👋, This is Arun
 #### Devops | Opensource Enthusiast  | Internet of Things
-![Devops | Opensource Enthusiast  | Internet of Things] 
 
 Experienced Solutions Architect with a demonstrated history of working in the consumer electronics industry and Industry 4.0. Skilled in Domain Name System (DNS), Databases, Servers, AWS, and Management. Strong engineering professional with a Bachelor of Engineering (B.E.) focused in Electronic And Communication Engineering. 
 
-Skills: DEVOPS / REACT / JS / HTML / CSS / PYTHON /DJANGO / KUBERNATE / JENKINS / AWS
+Skills: DEVOPS / REACT / JS / HTML / CSS / PYTHON /DJANGO / K8S / JENKINS / AWS
 
 - 🔭 I’m currently working on this page. 
 
