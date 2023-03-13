@@ -21,7 +21,7 @@ I am proud to say that my latest project, Xoptimus, is being developed in an env
 ## Find Me Online
 
 - [LinkedIn](https://www.linkedin.com/in/arun-skg/)
-- [Twitter](https://twitter.com/arun_skg)
+- [Twitter](https://twitter.com/arunnskg)
 
 ## BuyMeCoffee
 - [BuyMeCoffee](https://www.buymeacoffee.com/arunskg)
